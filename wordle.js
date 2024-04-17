@@ -1,6 +1,6 @@
 const letters = document.querySelectorAll(".scoreboard-letter");
 const infoBar = document.querySelector(".info-bar");
-var answer;
+var answer = "";
 var number = 0;
 var alreadyGuessed = [false, false, false, false, false, false];
 var alreadyGuessedNumber = 0;
