@@ -35,7 +35,6 @@ To play the Wordle game, follow these steps:
    - An incorrect letter will be marked with a red border.
 5. Keep guessing until you correctly guess the word or run out of attempts.
 6. If you run out of attempts, the correct word will be revealed.
-7. You can start a new game by clicking the "New Game" button.
 
 Enjoy playing Wordle and have fun!
 
