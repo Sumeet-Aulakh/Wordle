@@ -18,6 +18,14 @@ To install the Wordle application, follow these steps:
 
 1. Clone the repository to your local machine.
 2. Open the terminal and navigate to the project directory.
+3. Launch the `index.html` file in your web browser.
+
+Now you have successfully installed the Wordle application and it is ready to use.
+
+To install the Wordle application, follow these steps:
+
+1. Clone the repository to your local machine.
+2. Open the terminal and navigate to the project directory.
 3. Run the command `npm install` to install the necessary dependencies.
 4. Once the installation is complete, run the command `npm start` to start the application.
 
